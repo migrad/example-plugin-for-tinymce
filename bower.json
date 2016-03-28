@@ -1,0 +1,6 @@
+{
+  "name": "migrad",
+  "dependencies": {
+    "tinymce": "^4.3.8"
+  }
+}
