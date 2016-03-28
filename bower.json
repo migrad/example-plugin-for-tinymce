@@ -1,5 +1,9 @@
 {
-  "name": "migrad",
+  "name": "example-plugin-for-tinymce",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/migrad/example-plugin-for-tinymce.git"
+  },
   "dependencies": {
     "tinymce": "^4.3.8"
   }
